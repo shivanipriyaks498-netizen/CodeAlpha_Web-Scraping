@@ -94,3 +94,7 @@ Developed as part of the CodeAlpha Data Analytics Internship.
 
 ## Author
 Your Name
+=======
+# CodeAlpha_Web-Scraping
+Python web scraping project using BeautifulSoup, Requests, Pandas, and Matplotlib to collect, clean, analyze, and visualize 1,000 book records.
+>>>>>>> 2e213766684fb51b2e82a72244f0414bfc662c28
